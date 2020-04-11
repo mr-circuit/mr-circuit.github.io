@@ -24,9 +24,9 @@ permalink: /
 * An Organ Donor ❤️
 * A Programmer rather A Coder 🧑‍💻
 * A Musicophile 🎧
-
+<!--
 Eyesight-protection layout
-* Decrypt and encrypt text (access token: 233): 
+ * Decrypt and encrypt text (access token: 233): 
   * secret msg 1: 
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
   * secret msg 2: 
@@ -45,6 +45,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+-->
 ## Download and Documentation
 
 [**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
