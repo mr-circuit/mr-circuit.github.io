@@ -13,6 +13,7 @@ permalink: /
 
 # Jayasurya Obbu
 M.Sc, Sensor Systems Technology
+Karlsruhe University of Applied Sciences
 Karlsruhe, BW, Germany
 
 ##  Who I Am?
