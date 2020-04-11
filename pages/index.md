@@ -27,4 +27,4 @@ permalink: /
 
 ## Tabs
 
-[About](https://www.jayasurya.me/about) Blog Books Reminisce Projects Contact
+[About](about.md) Blog Books Reminisce Projects Contact

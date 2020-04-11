@@ -31,4 +31,4 @@ This blog is an Insider of my life. I blog to document my ideas, research and pe
 
 ## Tabs
 
-[About](https://www.jayasurya.me/about) Blog Books Reminisce Projects Contact
+[About](about.md) Blog Books Reminisce Projects Contact
