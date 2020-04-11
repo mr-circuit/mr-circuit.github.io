@@ -25,7 +25,3 @@ permalink: /
 * A Programmer rather A Coder 🧑‍💻
 * A Musicophile 🎧
 
-## Download
-
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
-
