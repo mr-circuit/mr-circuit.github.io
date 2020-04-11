@@ -8,7 +8,7 @@ footer: true
 title: "About | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /about.md
+permalink: /about
 ---
 
 # I am an Electronic Geek 
