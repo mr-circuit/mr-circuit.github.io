@@ -12,10 +12,10 @@ permalink: /
 ---
 
 # Jayasurya Obbu
+M.Sc, Sensor Systems Technology
+Karlsruhe, BW, Germany
 
-Organ Donor | Indian 🇮🇳 | Electronic Geek | Entrepreneur | Student | Coder | Musicophile |
-
-##  Who Am I?
+##  Who I Am?
 * 
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
