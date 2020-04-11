@@ -17,8 +17,15 @@ Karlsruhe University of Applied Sciences
 Karlsruhe, BW, Germany
 
 ##  Who I Am?
-* 
-* Eyesight-protection layout
+* A Masters Student in Sensors
+* An Entrepreneur at ImmortalElectronics LLP
+* An Electronics and Communication Engineering Graduate
+* An Indian
+* An Organ Donor
+* A Programmer rather A Coder
+* A Musicophile
+
+Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
   * secret msg 1: 
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
