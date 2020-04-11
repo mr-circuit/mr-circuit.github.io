@@ -11,7 +11,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "hello@jayasurya.me"
-github: "akiritsu/pRoJEct-NeGYa"
+github: "mr-circuit/"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "@Jayasurya.Obbu"
