@@ -1,8 +1,8 @@
 ## Settings
 title: My Insider
 owner: "Jayasurya Obbu"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+url: "https://mr-circuit.github.io"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
