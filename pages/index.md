@@ -21,7 +21,7 @@ permalink: /
 * An Entrepreneur at ImmortalElectronics LLP 👨‍💼
 * An Electronics and Communication Engineering Graduate 👨🏻‍🎓
 * An Indian 🇮🇳
-* An Organ Donor 🩸
+* An Organ Donor ❤️
 * A Programmer rather A Coder 🧑‍💻
 * A Musicophile 🎧
 
