@@ -12,18 +12,18 @@ permalink: /
 ---
 
 # Jayasurya Obbu
-M.Sc, Sensor Systems Technology
-Karlsruhe University of Applied Sciences
-Karlsruhe, BW, Germany
+* * M.Sc, Sensor Systems Technology
+* * Karlsruhe University of Applied Sciences
+* * Karlsruhe, BW, Germany
 
 ##  Who I Am?
-* A Masters Student in Sensors
-* An Entrepreneur at ImmortalElectronics LLP
-* An Electronics and Communication Engineering Graduate
-* An Indian
-* An Organ Donor
-* A Programmer rather A Coder
-* A Musicophile
+* A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
+* An Entrepreneur at ImmortalElectronics LLP 👨‍💼
+* An Electronics and Communication Engineering Graduate 👨🏻‍🎓
+* An Indian 🇮🇳
+* An Organ Donor 🩸
+* A Programmer rather A Coder 🧑‍💻
+* A Musicophile 🎧
 
 Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
