@@ -24,3 +24,7 @@ permalink: /
 * An Organ Donor ❤️
 * A Programmer rather A Coder 🧑‍💻
 * A Musicophile 🎧
+
+## Tabs
+
+[About](https://www.jayasurya.me/about) Blog Books Reminisce Projects Contact
