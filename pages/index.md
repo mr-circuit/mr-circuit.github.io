@@ -11,10 +11,10 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# Jayasurya Obbu
 
-##  Features
-* Highly customizable, content-oriented with The Matrix style
+##  Who Am I?
+* Organ Donor | Indian 🇮🇳 | Electronic Geek | Entrepreneur | Student | Coder | Musicophile |
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
   * secret msg 1: 
