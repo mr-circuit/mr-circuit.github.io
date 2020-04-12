@@ -14,7 +14,9 @@ permalink: /skills
 # **😎Jayasurya Obbu😎**
 
 ## Technical Skills
+
 ### Programming & Scripting Languages
+
 + C
 + C++
 + Embedded C
@@ -29,14 +31,18 @@ permalink: /skills
 + Scala (Learning)
 + Java (Learning)
 + Dart (Learning)
+
 ### Frameworks
+
 + .Net Framework
 + Ruby on Rails
 + Play
 + Flutter
 + Xamarin
 + PyTorch
+
 ### Tools
+
 + MATLAB (Simulink/Stateflow/Scripting)
 + LabView
 + ComSol Multiphysics
@@ -46,10 +52,14 @@ permalink: /skills
 + KiCAD
 + Android Studio
 + Eclipse
+
 ### Operating Systems
+
 + Windows
 + Linux
+
 ### µC Dev Boards
+
 + Arduino Series Boards
 + Raspberry Pi
 + NodeMCU
