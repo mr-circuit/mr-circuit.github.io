@@ -27,4 +27,8 @@ permalink: /
 
 ## Tabs
 
-[About](about.md) Blog Books Reminisce Projects Contact
+[About](about.md) Blog Books Reminisce Projects
+
+## Social Connectivity
+
+[Facebook](https://www.facebook.com/jayasurya.obbu/) [LinkedIn](https://www.linkedin.com/in/jayasurya-obbu/) [Instagram](https://www.instagram.com/mr__circuit/) [GitHub](https://github.com/mr-circuit) [E-Mail]( mailto:hello@jayasurya.me) 
