@@ -58,7 +58,7 @@ permalink: /skills
 + Windows
 + Linux
 
-### µC Dev Boards
+### MicroController Dev Boards
 
 + Arduino Series Boards
 + Raspberry Pi
