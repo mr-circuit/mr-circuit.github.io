@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# **Jayasurya Obbu**
+# **😎Jayasurya Obbu😎**
 * * M.Sc, Sensor Systems Technology 👨🏻‍🎓👨🏻‍🎓
 * * Karlsruhe University of Applied Sciences 🏫
 * * Karlsruhe, BW, Germany 🇩🇪
