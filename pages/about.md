@@ -35,7 +35,7 @@ cook, listen music, collect coins, solve Rubix cube, keep myself fit, and mostly
 
 ## Tabs
 
-[Education](education.md) Blog Books Reminisce Projects
+[Education](education.md) [Work Experience](work-experience.md) Blog Books Reminisce Projects
 
 ## Social Connectivity
 
