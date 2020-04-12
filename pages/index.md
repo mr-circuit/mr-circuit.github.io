@@ -22,12 +22,12 @@ permalink: /
 * An Electronics and Communication Engineering Graduate 👨🏻‍🎓
 * An Indian 🇮🇳
 * An Organ Donor ❤️
-* A Programmer rather than A Coder 🧑‍💻
+* A Programmer rather than A Coder 👨‍💻
 * A Musicophile 🎧
 
 ## Tabs
 
-[Education](education.md) [Work Experience](work-experience.md) Blog Books Reminisce Projects
+[Education🧮](education.md) [Work Experience💼](work-experience.md) Blog Books Reminisce Projects
 
 ## Social Connectivity
 

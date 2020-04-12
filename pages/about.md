@@ -11,31 +11,31 @@ encrypted_text: true
 permalink: /about
 ---
 
-# _"About me"_ 
+# _"About me😎"_ 
 
-## I believe _"Stay Hungry--Stay Foolish"_
+## I believe _"Be a Good Person🦸‍♂️, but don't waste time⌛ to prove it"_
 
 ### I am...
 
-A Master's Student, currently residing in Karlsruhe, Germany since 2019. My studies are on Sensor Systems at Karlsruhe University of Applied Sciences. 
+A Master's Student👨🏻‍🎓👨🏻‍🎓, currently residing in Karlsruhe, Germany🇩🇪 since 2019. My studies are on Sensor Systems at Karlsruhe University of Applied Sciences🏫. 
 
 ### I Was...
 
-An Electronics Engineer and a programmer with a year and half of professional experience managing small to medium level commercial projects related to Embedded Design and Software at Immortal Electronics LLP.
+An Electronics Engineer⚙️ and a programmer👨‍💻 with a year and half of professional experience managing small to medium level commercial projects related to Embedded Design and Software at Immortal Electronics LLP🏢.
 
-During my Bachelor's Degree in Electronics and Communication Engineering, I was placed in Comtec Information Systems, a software development company as an Intern for c#.net development. After my Internship period, I was motivated to begin my own Start-up, Immortal Electronics LLP, in 2017 along with my classmates. After successfully running through my ideas, about a year later I planned to extend my knowledge boundaries in the specific topic of electronics - Sensors, So I started my Master's. A kingdom without a king is never sustained, as my focus shifted I have no other option left rather closing my brainchild. 
+During my Bachelor's Degree in Electronics and Communication Engineering, I was placed in Comtec Information Systems, a software development company🏢 as an Intern for c#.net development👨‍💻. After my Internship period, I was motivated to begin my own Start-up, Immortal Electronics LLP, in 2017 along with my classmates. After successfully running through my ideas💡, about a year later I planned to extend my knowledge boundaries in the specific topic of electronics - Sensors, So I started my Master's👨🏻‍🎓👨🏻‍🎓. A kingdom without a king🤴 is never sustained, as my focus shifted I have no other option left rather closing my brainchild🧠👶. 
 
 ### I will be ever a...
 
-good citizen of my nation, good son to my parents, music lover, and ardent Rajinikanth follower.
+good citizen of my nation🦸‍♂️, good son to my parents👪, music lover🎧, and ardent Rajinikanth follower🕶️.
 
 ### I like to...
 
-cook, listen music, collect coins, solve Rubix cube, keep myself fit, and mostly work with some random new technology.
+cook🍳, listen music🎧, collect coins💰, solve Rubix cube, keep myself fit💪, and mostly work with some random new technology👨‍💻.
 
 ## Tabs
 
-[Education](education.md) [Work Experience](work-experience.md) Blog Books Reminisce Projects
+[Education🧮](education.md) [Work Experience💼](work-experience.md) Blog Books Reminisce Projects
 
 ## Social Connectivity
 
