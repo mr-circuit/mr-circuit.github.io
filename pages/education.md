@@ -18,6 +18,9 @@ permalink: /education
 
 I was placed in this university as a Dual Degree Student swapped from VIT University, India on merit basis.
 
+Timeline - 2019 to Currently Studying
+Grade - 2.3 (1.0-4.0 / Max-Min)
+
 Topics I learned here...
 
 * Advanced Natural Sciences (Advanced Physics, Advanced Chemistry)
@@ -33,6 +36,9 @@ Topics I learned here...
 ## Master of Technology(M.Tech.), Sensor Systems Technology
 ### VIT University, Vellore, India
 
+Timeline - 2018 to 2019
+Grade - 8.35 (10.0-1.0 / Max-Min)
+
 Topics I learned here...
 
 * Basics of Sensors
@@ -41,6 +47,24 @@ Topics I learned here...
 * Wireless Sensors & IoT
 * Control Systems
 * Data Acquisition
+
+## Bachelor of Technology(B.Tech.), Electronics and Communication Engineering
+### N B K R Institute of Science and Technology, JNTUA, Vidyanagar, AP, India
+
+Timeline - 2013 to 2017
+Grade - 7.37 (10.0-1.0 / Max-Min)
+
+Topics I learned here...
+
+* Electronic Devices & Circuits
+* Analog & Digital Communications
+* Radar Engineering
+* Digital Signal & Image Processing
+* Neural Networks & Fuzzy Logic
+* Micro Controllers & Micro Processors
+* Embedded Systems
+* Semiconductor Devices
+* Antenna and Wave Propagation
 
 
 
