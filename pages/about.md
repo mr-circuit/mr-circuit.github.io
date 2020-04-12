@@ -31,7 +31,7 @@ good citizen of my nation🦸‍♂️, good son to my parents👪, music lover�
 
 ### I like to...
 
-cook🍳, listen music🎧, collect coins💰, solve Rubix cube, keep myself fit💪, and mostly work with some random new technology👨‍💻.
+cook🍳, listen music🎧, collect coins💰, travel a lot🗺️, solve Rubix cube, keep myself fit💪, and mostly work with some random new technology👨‍💻.
 
 ## Tabs
 

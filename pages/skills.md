@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /skills
 ---
 
-# **😎Jayasurya Obbu😎**
+# **😎Knowledge is not Skill, Knowledge + 10000 times is Skill😎**
 
 ## Technical Skills
 
@@ -36,8 +36,9 @@ permalink: /skills
 
 + .Net Framework
 + Ruby on Rails
-+ Play
-+ Flutter
++ Jekyll
++ Play (Learning)
++ Flutter (Learning)
 + Xamarin
 + PyTorch
 
@@ -56,7 +57,8 @@ permalink: /skills
 ### Operating Systems
 
 + Windows
-+ Linux
++ Linux (Ubuntu)
++ Debian
 
 ### MicroController Dev Boards
 
@@ -64,7 +66,33 @@ permalink: /skills
 + Raspberry Pi
 + NodeMCU
 + 8051 Kits
++ Texas Instruments Boards
 + BeagleBone (Black, GreenWireless)
+
+## Non-Technical Skills
+
+### Communicational Skills
+
+* Languages - English, Telugu, Tamil, German
+* Public Speaking
+* Leadership
+* Mentoring
+* Flexible to Situations
+* Listening
+
+### Cooking Skills
+
+* Mainly Indian Dishes
+* Italian Dishes
+* Chicken Dishes
+
+### Games & Sports
+
+* Chess
+* Rubix Cube
+* Carroms
+* Cricket
+* Badminton
 
 ## Tabs
 
