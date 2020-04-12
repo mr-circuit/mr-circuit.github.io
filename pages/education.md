@@ -8,7 +8,7 @@ footer: true
 title: "Education | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /about
+permalink: /education
 ---
 
 # _"The Mind is not a Vessel to be filled, but a fire to be kindled"_ 
