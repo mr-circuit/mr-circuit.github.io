@@ -14,26 +14,6 @@
                         </i>
                     </a>
                 {% endif %}
-                <!-- email -->
-                {% if site.email != ""%}
-                    <a class="header_btn" href="mailto://{{ site.email }}">
-                        <i class="fa fa-envelope-square">
-                            {% if page.btn_text != false %}
-                                <p class="btn_text">Email</p>
-                            {% endif %}
-                        </i>
-                    </a>
-                {% endif %}
-                <!-- github -->
-                {% if site.github != "" %}
-                    <a class="header_btn" href="https://github.com/{{ site.github }}">
-                        <i class="fa fa-github">
-                            {% if page.btn_text != false %}
-                                <p class="btn_text">Github</p>
-                            {% endif %}
-                        </i>
-                    </a>
-                {% endif %}
                 <!-- about -->
                 {% if site.about != false %}
                     <a class="header_btn" href="{{ site.url }}/about">
