@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /about
 ---
 
-# _~can I...~ I Can..._ 
+# _~~can I...~~ I Can..._ 
 
 ## I depict myself as a Full-Time Electronics Developer and a Part-Time Software Developer
 
