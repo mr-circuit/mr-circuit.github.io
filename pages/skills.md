@@ -14,10 +14,19 @@ permalink: /skills
 # **😎Jayasurya Obbu😎**
 
 ## Technical Skills
-### Programming Languages
-+ python
-+ c
-+ c++
+### Programming & Scripting Languages
++ C
++ C++
++ Embedded C
++ C# .net
++ Python
++ R Language
++ Assembly Language
++ HTML, CSS, JS
++ Perl Scripting
++ Scala (Learning)
++ Java (Learning)
++ Dart (Learning)
  
 
 ##  Who I Am?
