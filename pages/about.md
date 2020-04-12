@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /about
 ---
 
-# "About me😎" 
+# About me😎
 
 ## I believe _"Be a Good Person🦸‍♂️, but don't waste time⌛ to prove it"_
 

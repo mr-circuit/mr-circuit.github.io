@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /skills
 ---
 
-# **😎Knowledge is not Skill🤹🏼, Knowledge + 10000 times is Skill🤹🏼😎**
+# _"Knowledge is not Skill🤹🏼, Knowledge + 10000 times is Skill🤹🏼_"
 
 ## Technical Skills🔧🤹🏼
 
