@@ -30,6 +30,20 @@ Topics I learned here...
 * Microsystems
 * Automotive Sensors Applications
 
+## Master of Technology(M.Tech.), Sensor Systems Technology
+### VIT University, Vellore, India
+
+Topics I learned here...
+
+* Basics of Sensors
+* MEMS and Hybrid Systems
+* Flexible and Wearable Sensors
+* Wireless Sensors & IoT
+* Control Systems
+* Data Acquisition
+
+
+
 
 I’m a 22-year-old Electronics Engineer and an Entrepreneur hail from Gudur, Andhra Pradesh, India. I adore doing R&D in Electronics and tuning in to music.
 
