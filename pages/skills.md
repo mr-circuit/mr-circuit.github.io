@@ -18,25 +18,43 @@ permalink: /skills
 + C
 + C++
 + Embedded C
-+ C# .net
++ C#
 + Python
++ MATLAB Programming
 + R Language
 + Assembly Language
 + HTML, CSS, JS
 + Perl Scripting
++ Ruby
 + Scala (Learning)
 + Java (Learning)
 + Dart (Learning)
- 
-
-##  Who I Am?
-* A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
-* An Entrepreneur at ImmortalElectronics LLP 👨‍💼
-* An Electronics and Communication Engineering Graduate 👨🏻‍🎓
-* An Indian 🇮🇳
-* An Organ Donor ❤️
-* A Programmer rather than A Coder 👨‍💻
-* A Musicophile 🎧
+### Frameworks
++ .Net Framework
++ Ruby on Rails
++ Play
++ Flutter
++ Xamarin
++ PyTorch
+### Tools
++ MATLAB (Simulink/Stateflow/Scripting)
++ LabView
++ ComSol Multiphysics
++ Proteus
++ Cadence Tools (OrCAD, Allegro)
++ Visual Studio
++ KiCAD
++ Android Studio
++ Eclipse
+### Operating Systems
++ Windows
++ Linux
+### µC Dev Boards
++ Arduino Series Boards
++ Raspberry Pi
++ NodeMCU
++ 8051 Kits
++ BeagleBone (Black, GreenWireless)
 
 ## Tabs
 
