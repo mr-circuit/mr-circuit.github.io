@@ -22,7 +22,7 @@ permalink: /
 * An Electronics and Communication Engineering Graduate 👨🏻‍🎓
 * An Indian 🇮🇳
 * An Organ Donor ❤️
-* A Programmer rather A Coder 🧑‍💻
+* A Programmer rather than A Coder 🧑‍💻
 * A Musicophile 🎧
 
 ## Tabs
