@@ -11,17 +11,17 @@ encrypted_text: true
 permalink: /skills
 ---
 
-# **😎Knowledge is not Skill, Knowledge + 10000 times is Skill😎**
+# **😎Knowledge is not Skill🤹🏼, Knowledge + 10000 times is Skill🤹🏼😎**
 
-## Technical Skills
+## Technical Skills🔧🤹🏼
 
-### Programming & Scripting Languages
+### Programming & Scripting Languages👨‍💻
 
 + C
 + C++
 + Embedded C
 + C#
-+ Python
++ Python🐍
 + MATLAB Programming
 + R Language
 + Assembly Language
@@ -32,7 +32,7 @@ permalink: /skills
 + Java (Learning)
 + Dart (Learning)
 
-### Frameworks
+### Frameworks💻
 
 + .Net Framework
 + Ruby on Rails
@@ -42,7 +42,7 @@ permalink: /skills
 + Xamarin
 + PyTorch
 
-### Tools
+### Tools🧰
 
 + MATLAB (Simulink/Stateflow/Scripting)
 + LabView
@@ -54,7 +54,7 @@ permalink: /skills
 + Android Studio
 + Eclipse
 
-### Operating Systems
+### Operating Systems🖥️
 
 + Windows
 + Linux (Ubuntu)
@@ -69,30 +69,32 @@ permalink: /skills
 + Texas Instruments Boards
 + BeagleBone (Black, GreenWireless)
 
-## Non-Technical Skills
+## Non-Technical Skills🤹🏼
 
-### Communicational Skills
+### Communicational Skills💬
 
-* Languages - English, Telugu, Tamil, German
-* Public Speaking
+* Languages🈚 - English🏴󠁧󠁢󠁥󠁮󠁧󠁿, Telugu, Tamil, German🇩🇪
+* Public Speaking🗣️
 * Leadership
 * Mentoring
 * Flexible to Situations
-* Listening
+* Listening👂
 
-### Cooking Skills
+### Cooking Skills🍳
 
-* Mainly Indian Dishes
-* Italian Dishes
-* Chicken Dishes
+* Mainly Indian Dishes🍛
+* Italian Dishes🍕
+* Chicken Dishes🍗
 
-### Games & Sports
+### Games & Sports🎲
 
-* Chess
+* Chess♟️
 * Rubix Cube
 * Carroms
-* Cricket
-* Badminton
+* Cricket🏏
+* Badminton🏸
+* Trekking🧗‍♂️
+* Cycling🚴‍♂️
 
 ## Tabs
 
