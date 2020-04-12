@@ -11,10 +11,10 @@ encrypted_text: true
 permalink: /work-experience
 ---
 
-# _"You can't do a good job, unless you love it"_ 
+# _"You can't do a good job👨‍💼, unless you love❤️ it"_ 
 
-## Electronics Engineer & Founder
-### ImmortalElectronics LLP, Hyderabad, India
+## Electronics Engineer & Founder👨‍💼
+### ImmortalElectronics LLP🏢, Hyderabad, India🇮🇳
 
 Timeline - May 2017 to June 2018
 
@@ -26,7 +26,7 @@ I worked on...
 * Symbols and footprints library management using Cadence Tools (OrCad+PSPICE)
 * Manual PCB mounting
 * Inquiry of electronic components
-* Design and Develop Embedded C, C++, C#.Net modules and components.
+* Design and Develop Embedded C, C++, C#.Net👨‍💻 modules and components.
 * Implementing multithreading to achieve asynchronous tasks.
 * Programming with C++ STL, ETL Libraries for data manipulations.
 * Implementing C++ DLLs for plugin kind of architecture.
@@ -36,14 +36,14 @@ I worked on...
 * Working with Network Protocols
 * Working on WiFi and Bluetooth protocols with BeagleBone Series Boards.
 
-## Internship
-### Comtec Information Systems, Hyderabad, India
+## Internship👨‍💼
+### Comtec Information Systems🏢, Hyderabad, India🇮🇳
 
 Timeline - Jan 2017 to Aug 2017
 
 I worked on...
 
-* Development of Windows Applications with C#.net
+* Development of Windows Applications with C#.net👨‍💻
 * Working on application development cross-platform Xamarin
 * Utilized Abstraction, Encapsulation, Inheritance, Polymorphism features
 * Learned to work in teams and project handling in Multi-National Environment.
