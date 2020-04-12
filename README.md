@@ -8,3 +8,5 @@
 * about page created
 * changed favicon
 * modified index page
+* education page added
+* work-experience page added
