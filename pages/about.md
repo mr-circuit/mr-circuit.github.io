@@ -23,7 +23,7 @@ A Master's Student, currently residing in Karlsruhe, Germany since 2019. My stud
 
 An Electronics Engineer and a programmer with a year and half of professional experience managing small to medium level commercial projects related to Embedded Design and Software at Immortal Electronics LLP.
 
-During my Bachelor's Degree in Electronics and Communication Engineering, I was placed in Comtec Information Systems, a software development company as an Intern for c#.net development. After my Internship period, I was motivated to begin my own Start-up, Immortal Electronics LLP, in 2017 along with my classmates. After successfully running through my ideas, about a year later I planned to extend my knowledge boundaries in the specific topic of electronics - Sensors, So I started my Master's. A kingdom without a king is never sustained, as my focus was shifted I have no other option left rather closing my brainchild. 
+During my Bachelor's Degree in Electronics and Communication Engineering, I was placed in Comtec Information Systems, a software development company as an Intern for c#.net development. After my Internship period, I was motivated to begin my own Start-up, Immortal Electronics LLP, in 2017 along with my classmates. After successfully running through my ideas, about a year later I planned to extend my knowledge boundaries in the specific topic of electronics - Sensors, So I started my Master's. A kingdom without a king is never sustained, as my focus shifted I have no other option left rather closing my brainchild. 
 
 ### I will be ever a...
 
