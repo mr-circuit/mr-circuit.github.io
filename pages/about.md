@@ -31,7 +31,7 @@ This blog is an Insider of my life. I blog to document my ideas, research and pe
 
 ## Tabs
 
-[About](about.md) Blog Books Reminisce Projects
+[Education](education.md) Blog Books Reminisce Projects
 
 ## Social Connectivity
 

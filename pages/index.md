@@ -27,7 +27,7 @@ permalink: /
 
 ## Tabs
 
-[About](about.md) Blog Books Reminisce Projects
+[Education](education.md) Blog Books Reminisce Projects
 
 ## Social Connectivity
 
