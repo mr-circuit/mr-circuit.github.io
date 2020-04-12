@@ -12,3 +12,4 @@
 * work-experience page added
 * skills page created
 * emojis added
+* 404 page edited
