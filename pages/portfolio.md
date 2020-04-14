@@ -13,7 +13,7 @@ permalink: /portfolio
 
 # _"Making Product is better than making a Project"_ 
 
-## Nothing makes me more joyful than just working with some developing technology. Electronics is my passion! These are some of the projects I've worked on that you may find interesting.
+## Nothing makes me more joyful than just working with some development technology. Electronics is my passion! These are some of the projects I've worked on that you may find interesting.
 
 I was placed in this university🏫 as a Dual Degree Student👨🏻‍🎓 swapped from VIT University🏫, India🇮🇳 on merit basis.
 
