@@ -19,6 +19,13 @@ permalink: /portfolio
 
 ### Data Mining of Weather and Result Storage in a Web Server using NodeMCU
 
+* Masters' Curriculum Project
+* Credits: Jayasurya Obbu, Gundu Sushrutha, Varline Betty Cruze
+
+The ideology behind this project is to identify the weather conditions at any point on the earth, which can be identified by its place-name or by its Postcode/ Zipcode/ Pin code and make the information logged in a web server. The technologies which we are implementing in this project are Data Mining and Internet of Things (loT), the earlier is the concept of digging the data from the vast source of internet through simple concepts and the loT is the best solution to connect the electronic things to the internet so that they can be utilized anywhere in the world. 
+
+Our system first collects the weather details of the place entered by the user through openweathermap.org (openweathermap.org is a provider for weather details) and those details were stored in a webserver/ webpage created. The weather details shown will be of Temperature in the area, data mining the server free API type of weather is it rainy, sunny, or stormy, etc. The data we got will be kept on updating in our web server and can be accessed from the internet anytime. We are using NodeMCU for both data mining and web server creation in this project.
+
 ### Identification of Water Quality inside a Bottle Instantaneously
 
 * Masters' Curriculum Project
