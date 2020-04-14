@@ -23,15 +23,13 @@ Grade - 2.3 (1.0-4.0 / Max-Min)📜
 
 Topics I learned here...
 
-* Advanced Natural Sciences (Advanced Physics, Advanced Chemistry)
-* Principles of Sensor Systems
-* Sensor Signal Processing
-* Sensor Actor Networks (Bus Systems, Local Area Network)
-* System Integration (Pattern Recognition, Communication and Visualization)
-* Computer-Aided Sensorics
-* Hybrid Technology
-* Microsystems
-* Automotive Sensors Applications
+* Chemical and Bio Sensors
+* Physical Sensors
+* Opto Fluidic Sensors
+* Automotive Sensor Applications
+* System Integrations
+* Medical Sensors
+* Advanced Programming
 
 ## Master of Technology(M.Tech.)👨🏻‍🎓👨🏻‍🎓, Sensor Systems Technology
 ### VIT University🏫, Vellore, India🇮🇳
@@ -41,12 +39,19 @@ Grade - 8.35 (10.0-1.0 / Max-Min)📜
 
 Topics I learned here...
 
-* Basics of Sensors
-* MEMS and Hybrid Systems
-* Flexible and Wearable Sensors
-* Wireless Sensors & IoT
+* Principles of Sensors
+* Data Acquisition and Hardware Interfaces
 * Control Systems
-* Data Acquisition
+* Software for Embedded Systems
+* Soft Computing
+* Flexible and Wearable Sensors
+* Wireless Sensor Networks and IoT
+* Microcontrollers and Embedded Sensors
+* Advanced Statistical Methods
+* Management Studies
+* *	Product Design, Management Techniques, and Entrepreneurship
+* *	Essentials of Business Etiquettes
+* *	Preparing for Industry
 
 ## Bachelor of Technology(B.Tech.)👨🏻‍🎓, Electronics and Communication Engineering
 ### N B K R Institute of Science and Technology🏫, JNTUA, Vidyanagar, AP, India🇮🇳
