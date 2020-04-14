@@ -11,44 +11,40 @@ encrypted_text: true
 permalink: /portfolio/academic_portfolio
 ---
 
-# _**"Making Product is better than making a Project"**_ 
+# **Academic Projects🖥️ (No. of Projects: 8)**
 
-## Nothing makes me more joyful than just working with some development technology. Electronics is my passion! These are some of the projects I've worked on that you may find interesting.
+### _Home Automation🏠 using ESP Module_
 
-## **Academic Projects (No. of Projects: 8)**
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Gundu Sushrutha👩🏻‍🎓
 
-### _Home Automation using ESP Module_
+This project presents a design and prototype implementation of a new home automation🏠 system that uses WiFi technology as a network infrastructure connecting its parts. The proposed system consists of two main components; the first part is the server (webserver)🌐, which presents the system core that manages, controls, and monitors🖥️ the user's🧑🏽‍🤝‍🧑🏽 home🏠. Users🧑🏽‍🤝‍🧑🏽 and the system administrators👨‍💻 can locally (LAN)🖥️🖥️ or remotely (internet)🌐 manage and control system code📄. The second part is the hardware interface module, which provides an appropriate interface to sensors and actuators⚙️ of the home automation🏠 system. Unlike most available home automation🏠 systems in the market, the proposed system is scalable that one server🌐 can manage many hardware interface modules as long as it exists on WiFi network coverage. The system supports a wide range of home automation🏠 devices like power🔋 management components and security🔐 components. The proposed system is better from the scalability and flexibility point of view than the commercially available home automation🏠 systems.
 
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Gundu Sushrutha
+### _Interfacing Pulse💗 Rate Sensor with Arduino and observing the data📄 in Cloud☁️_
 
-This project presents a design and prototype implementation of a new home automation system that uses WiFi technology as a network infrastructure connecting its parts. The proposed system consists of two main components; the first part is the server (webserver), which presents the system core that manages, controls, and monitors the user's home. Users and the system administrators can locally (LAN) or remotely (internet) manage and control system code. The second part is the hardware interface module, which provides an appropriate interface to sensors and actuators of the home automation system. Unlike most available home automation systems in the market, the proposed system is scalable that one server can manage many hardware interface modules as long as it exists on WiFi network coverage. The system supports a wide range of home automation devices like power management components and security components. The proposed system is better from the scalability and flexibility point of view than the commercially available home automation systems.
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Gundu Sushrutha👩🏻‍🎓
 
-### _Interfacing Pulse Rate Sensor with Arduino and observing the data in Cloud_
+IoT plays an important role in the healthcare⚕️ industry. Pulse💗 rate monitoring for a patient🤒 has to be done every now and then in order to observe their physical health⚕️ condition. A prototype of the system is created. In this project, we are interfacing a pulse💗 rate sensor and temperature🌡️ sensor to Arduino and the data📄 are observed in ThingSpeak cloud☁️ through ESP8266. The data📄 is passed to the cloud☁️ so that it can be accessed from anywhere.
 
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Gundu Sushrutha
+### _Sonar🔊 System Based Obstacle🧱 Avoiding Robot🤖_
 
-IoT plays an important role in the healthcare industry. Pulse rate monitoring for a patient has to be done every now and then in order to observe their physical health condition. A prototype of the system is created. In this project, we are interfacing a pulse rate sensor and temperature to Arduino and the data are observed in ThingSpeak cloud through ESP8266. The data is passed to the cloud so that it can be accessed from anywhere.
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
-### _Sonar System Based Obstacle Avoiding Robot_
-
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Lingeshwaran R D, Immanuel Adam, Joshua Jacob Rajan
-
-This project is designed to build an obstacle avoidance robotic vehicle using ultrasonic sensor for its movement. A micro-controller (ATMega 328 P) is used to achieve the desired operation. A robot is a machine that can perform a task automatically or with guidance. Robotics has a control system, which is a combination of computational intelligence, and Mechanical Build (motors). Computational intelligence involves the programmed instructions. The project proposes a robotic vehicle that has a control system built in it such that it directs itself whenever an obstacle comes in its path. This robotic vehicle is built, using a micro-controller of the ATMega family. An ultrasonic sensor is used to detect any obstacle ahead of it and sends a command to the microcontroller. Depending on the input signal received, the micro-controller redirects the robot to move in the left direction by actuating the motors, which are interfaced to it through a motor driver.
+This project is designed to build an obstacle🧱 avoidance robotic🤖 vehicle🚗 using ultrasonic🔊 sensor for its movement. A micro-controller (ATMega 328 P) is used to achieve the desired operation. A robot🤖 is a machine that can perform a task automatically or with guidance. Robotics🤖 has a control system, which is a combination of computational intelligence👨‍💻, and Mechanical Build (motors)⚙️. Computational intelligence👨‍💻 involves the programmed instructions📄. The project proposes a robotic🤖 vehicle🚗 that has a control system built in it such that it directs itself whenever an obstacle🧱 comes in its path🛣️. This robotic🤖 vehicle🚗 is built, using a micro-controller of the ATMega family. An ultrasonic🔊 sensor is used to detect any obstacle🧱 ahead of it and sends➡️ a command to the microcontroller. Depending on the input signal received, the micro-controller redirects the robot🤖 to move in the left🤛 direction by actuating the motors⚙️, which are interfaced to it through a motor⚙️ driver.
 
 ### _Recent trends in temperature over Six Cities in India during 2017_
 
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Lingeshwaran R D, Immanuel Adam, Joshua Jacob Rajan
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
 Ever-increasing greenhouse gases in the atmosphere are one of the most dominant factors for long‐term changes in the tropospheric temperature variations. To study this fact in the wake of changing global climatic scenario, linear trends in surface temperature and the tropospheric were examined for the period Jan – Dec in 2017 across Six cities in India (Hyderabad, Chennai, Delhi, Bangalore, Mumbai, Kolkata). The mean monthly temperature data for well‐spread 6 cities across India were used to examine the significance between temperatures all around the months and between cities using Two Way Anova Method with the help of R - Language.
 
 ### _Electronic Skateboard with Hand Gesture Speed Control_
 
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Lingeshwaran R D, Immanuel Adam, Joshua Jacob Rajan
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
 Environmental protection and energy conservations are the main concern of the 21st century, which has now accelerated the pace to plan and develop electric vehicle technology. The electric vehicles (EVs) offer a zero-emission, new automobile industry establishment, and economic development, efficient and smart transportation system. 
 
@@ -56,8 +52,8 @@ This project has a hand gesture controlled steering system to control the vehicl
 
 ### _Data Mining of Weather and Result Storage in a Web Server using NodeMCU_
 
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Gundu Sushrutha, Varline Betty Cruze
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Gundu Sushrutha👩🏻‍🎓, Varline Betty Cruze👩🏻‍🎓
 
 The ideology behind this project is to identify the weather conditions at any point on the earth, which can be identified by its place-name or by its Postcode/ Zipcode/ Pin code and make the information logged in a web server. The technologies which we are implementing in this project are Data Mining and Internet of Things (loT), the earlier is the concept of digging the data from the vast source of internet through simple concepts and the loT is the best solution to connect the electronic things to the internet so that they can be utilized anywhere in the world. 
 
@@ -65,8 +61,8 @@ Our system first collects the weather details of the place entered by the user t
 
 ### _Identification of Water Quality inside a Bottle Instantaneously_
 
-* Masters' Curriculum Project
-* Credits: Jayasurya Obbu, Immanuel Adam, Prof. Elizabeth Rufus
+* Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Prof. Elizabeth Rufus👩🏻‍🏫
 
 In developing countries like India, unsafe drinking water is one of the main problems, many people in rural areas were getting affected by some serious diseases due to this unhygienic usage of water. To control the problems arising from this issue we are planning to develop a water bottle that will detect the impurities in the water-filled in it and to warn the people who were drinking that water.
 
@@ -76,8 +72,8 @@ The water collected as the sample will be identified for the TDS (total dissolve
 
 ### _A Smart Ignition system to check Alcoholic Drivers and Seatbelt Overlookers_
 
-* Bachelors' Degree Thesis Project
-* Credits: Jayasurya Obbu, P Sandeep, Y Tejaswini, P. Santhosh Kumar Reddy
+* Bachelors' Degree Thesis Project👨🏻‍🎓
+* Credits: Jayasurya Obbu👨🏻‍🎓, P Sandeep👨🏻‍🎓, Y Tejaswini👩🏻‍🎓, P. Santhosh Kumar Reddy👨🏻‍🎓
 
 Accidents are very common anywhere and at any time. Road safety is emerging as a major social concern around the world, especially in India. Alcoholic Driver creating accidents are one of the most significant public problems. There can be various reasons for accidents but the role of alcohol in traffic safety has produced more controversies than any other topic. The major cause of accidents is due to a bad driver, Condition of the road or Condition of the vehicle.
 
