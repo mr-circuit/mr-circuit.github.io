@@ -56,15 +56,30 @@ Grade - 7.37 (10.0-1.0 / Max-Min)📜
 
 Topics I learned here...
 
+* Engineering Mathematics
+* Engineering - Physical Sciences
+* C - Programming & Data Structures
+* Pulse & Analog Circuits
+* Signals & Systems
 * Electronic Devices & Circuits
+* Electrical Sciences
 * Analog & Digital Communications
-* Radar Engineering
+* Waves
+* Analog & Digital IC Applications
+* Embedded Sytems & VLSI Design
+* Computer Organizations & Networks
 * Digital Signal & Image Processing
-* Neural Networks & Fuzzy Logic
-* Micro Controllers & Micro Processors
-* Embedded Systems
-* Semiconductor Devices
-* Antenna and Wave Propagation
+* Neural Networks & Fuzzy Logics
+* Telecommunications
+* *	Microwave Techniques
+* *	Radar Engineering
+* *	Optical Communications
+* * Satellite Communication
+* *	Cellular Mobile Communication
+* Management Studies
+* *	Economics & Accountancy
+* *	Environmental Studies
+* *	Management Sciences
 
 ## Intermediate / 12th Standard👨🏻‍🎓, Mathematics1️⃣ - Physics⚙️ - Chemistry🧪
 ### Narayana Junior College🏫, Gudur, India🇮🇳
