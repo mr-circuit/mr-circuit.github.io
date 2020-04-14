@@ -66,7 +66,7 @@ Topics I learned here...
 * Semiconductor Devices
 * Antenna and Wave Propagation
 
-## Intermediate / 12th Standard👨🏻‍🎓, Mathematics🧮 - Physics⚙️ - Chemistry🧪
+## Intermediate / 12th Standard👨🏻‍🎓, Mathematics1️⃣ - Physics⚙️ - Chemistry🧪
 ### Narayana Junior College🏫, Gudur, India🇮🇳
 
 Timeline - 2011 to 2013
