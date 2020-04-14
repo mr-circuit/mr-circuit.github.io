@@ -15,7 +15,7 @@ permalink: /portfolio
 
 ## Nothing makes me more joyful than just working with some development technology. Electronics is my passion! These are some of the projects I've worked on that you may find interesting.
 
-## **Academic Projects**
+## **Academic Projects (No. of Projects: 8)**
 
 ### _Home Automation using ESP Module_
 
