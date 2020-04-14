@@ -17,6 +17,20 @@ permalink: /portfolio
 
 ## **Academic Projects**
 
+### _Home Automation using ESP Module_
+
+* Masters' Curriculum Project
+* Credits: Jayasurya Obbu, Gundu Sushrutha
+
+This project presents a design and prototype implementation of a new home automation system that uses WiFi technology as a network infrastructure connecting its parts. The proposed system consists of two main components; the first part is the server (webserver), which presents the system core that manages, controls, and monitors the user's home. Users and the system administrators can locally (LAN) or remotely (internet) manage and control system code. The second part is the hardware interface module, which provides an appropriate interface to sensors and actuators of the home automation system. Unlike most available home automation systems in the market, the proposed system is scalable that one server can manage many hardware interface modules as long as it exists on WiFi network coverage. The system supports a wide range of home automation devices like power management components and security components. The proposed system is better from the scalability and flexibility point of view than the commercially available home automation systems.
+
+### _Interfacing Pulse Rate Sensor with Arduino and observing the data in Cloud_
+
+* Masters' Curriculum Project
+* Credits: Jayasurya Obbu, Gundu Sushrutha
+
+IoT plays an important role in the healthcare industry. Pulse rate monitoring for a patient has to be done every now and then in order to observe their physical health condition. A prototype of the system is created. In this project, we are interfacing a pulse rate sensor and temperature to Arduino and the data are observed in ThingSpeak cloud through ESP8266. The data is passed to the cloud so that it can be accessed from anywhere.
+
 ### _Sonar System Based Obstacle Avoiding Robot_
 
 * Masters' Curriculum Project
