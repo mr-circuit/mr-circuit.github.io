@@ -11,13 +11,13 @@ encrypted_text: true
 permalink: /portfolio
 ---
 
-# _**"Making Product is better than making a Project"**_ 
+# _**"Knowledge😇 is of no value unless you put it into Practice🏃‍♂️"**_ 
 
-## Nothing makes me more joyful than just working with some development technology. Electronics is my passion! These are some of the projects I've worked on that you may find interesting.
+## Nothing makes me more joyful😁 than just working with some development technology👨‍💻. Electronics is my passion! These are some of the projects I've worked on that you may find interesting🤨.
 
-## **[Academic Projects (No. of Projects: 8)](academic_portfolio.md))**
+# **[Academic Projects🖥️ (No. of Projects: 8)](academic_portfolio.md))**
 
-## **[Private Projects (No. of Projects: 10)](private_portfolio.md)**
+# **[Private Projects💻 (No. of Projects: 10)](private_portfolio.md)**
 
 ## Tabs
 

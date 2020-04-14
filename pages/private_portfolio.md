@@ -11,51 +11,47 @@ encrypted_text: true
 permalink: /portfolio/private_portfolio
 ---
 
-# _**"Making Product is better than making a Project"**_ 
+# **Private Projects💻 (No. of Projects: 10)**
 
-## Nothing makes me more joyful than just working with some development technology. Electronics is my passion! These are some of the projects I've worked on that you may find interesting.
+### _Biometric🖐🏽 Attendance_
 
-## **Private Projects (No. of Projects: 10)**
+It will take attendance from each student👨🏻‍🎓 in bus🚌 and check if the student👨🏻‍🎓 is present or not in the bus. Then it will send an SMS📱 to an in-charge👨‍💼 of an institute🏫 and also to the parents👪 of the student👨🏻‍🎓.
 
-### _Biometric Attendance_
+### _Pulse💗 Monitoring Gloves🧤_
 
-It will take attendance from each student in bus and check if the student is present or not in the bus. Then it will send an SMS to an in-charge of an institute and also to the parents of the student.
+A hand gloves🧤, which will measure the pulse💗 of a human body🧍 and gives the reading📄.
 
-### _Pulse Monitoring Gloves_
+### _Fan Speed💨 Control_
 
-A hand gloves, which will measure the pulse of a human body and gives the reading.
+It will listen👂 to the sound🔊 of our clap👏🏻 and according to our clap-count👏🏻👏🏻 the speed💨 of ceiling fan will be varied.
 
-### _Fan Speed Control_
+### _Vehicle🚗 Speed💨 Notification_
 
-It will listen to the sound of our clap and according to our clap-count the speed of ceiling fan will be varied.
+Monitoring of speed💨 of the vehicle🚗 is done here and if the speed💨 cross over the danger☠️ limits then an SMS📱 will be sent to Police department👮 and family👪 members.
 
-### _Vehicle Speed Notification_
+### _Water🌊 Drowning Detection🔍_
 
-Monitoring of speed of the vehicle is done here and if the speed cross over the danger limits then an SMS will be sent to Police department and family members.
+In Swimming pools🏊, if anyone drowned deep inside the water🌊, then immediately an automatic platform⚙️ lifts up the person from the base of swimming pool🏊 and send an alert to Guards💂🏻‍♂️ of the pool.
 
-### _Water Drowning Detection_
+### _Home🏠 Automation_
 
-In Swimming pools, if anyone drowned deep inside the water, then immediately an automatic platform lifts up the person from the base of swimming pool and send an alert to Guards of the pool.
+By using minimum parts which cost💵 around 1500 INR, a device is developed to control the home appliances🖨️🖥️📺💡 using our vocal commands🗣️.
 
-### _Home Automation_
+### _Electronic Notice📌 Board_
 
-By using minimum parts which cost around 1500 INR, a device is developed to control the home appliances using our vocal commands
+In Colleges/Schools🏫, this electronic notice📌 boards can be implemented to display short notices just by sending SMS📱 to specified mobile number📱.
 
-### _Electronic Notice Board_
+### _Gesture🙆‍♂️ Control Robot🤖_
 
-In Colleges/Schools, this electronic notice boards can be implemented to display short notices just by sending SMS to specified mobile number.
+Control a Robot🤖 Car🚗 by using just your hand gestures🙆‍♂️, move your hand LEFT🤛 to turn robot🤖 LEFT🤛 and RIGHT🤜 to turn robot🤖 Right🤜, here we are not using any Gyro Sensor.
 
-### _Gesture Control Robot_
+### _Automated Door🚪 Lock🔒_
 
-Control a Robot Car by using just your hand gestures, move your hand LEFT to turn robot LEFT and RIGHT to turn robot Right, here we are not using any Gyro Sensor.
+Now you can lock🔒 the door🚪 of your office🏢, house🏠, locker🧳 or anything by using a password🔑. A servo motor is used to control the door🚪 locking🔒 mechanism.
 
-### _Automated Door Lock_
+### _IE Laboratory👨‍🔬 Management System_
 
-Now you can lock the door of your office, house, locker or anything by using a password. A servo motor is used to control the door locking mechanism.
-
-### _IE Laboratory Management System_
-
-This is an windows form application which is used to store and display the data of the components available in the Immortal Electroncis Laboratory.
+This is an windows form application🖥️ which is used to store🗃️ and display🖥️ the data📃 of the components available in the Immortal Electroncis Laboratory👨‍🔬.
 
 ## Tabs
 
