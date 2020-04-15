@@ -39,16 +39,16 @@ This project is designed to build an obstacle🧱 avoidance robotic🤖 vehicle�
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
-Ever-increasing greenhouse gases🌋 in the atmosphere🌎 are one of the most dominant factors for long‐term changes in the tropospheric🌎 temperature🌡️ variations📊. To study📖 this fact in the wake of changing global climatic scenario, linear trends in surface temperature and the tropospheric were examined for the period Jan – Dec in 2017 across Six cities in India (Hyderabad, Chennai, Delhi, Bangalore, Mumbai, Kolkata). The mean monthly temperature data for well‐spread 6 cities across India were used to examine the significance between temperatures all around the months and between cities using Two Way Anova Method with the help of R - Language.
+Ever-increasing greenhouse gases🌋 in the atmosphere🌎 are one of the most dominant factors for long‐term changes in the tropospheric🌎 temperature🌡️ variations📊. To study📖 this fact in the wake of changing global🌎 climatic❄️ scenario, linear 📈 in surface temperature🌡️ and the tropospheric🌎 were examined for the period Jan – Dec in 2017 across Six cities🏙️ in India🇮🇳 (Hyderabad, Chennai, Delhi, Bangalore, Mumbai, Kolkata). The mean monthly temperature🌡️ data📄 for well‐spread 6 cities🏙️ across India🇮🇳 were used to examine the significance between temperatures🌡️ all around the months and between cities🏙️ using Two Way Anova Method with the help of R - Language🇷.
 
-### _Electronic Skateboard with Hand Gesture Speed Control_
+### _Electronic Skateboard🛹 with Hand Gesture Speed Control_
 
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
 Environmental protection and energy conservations are the main concern of the 21st century, which has now accelerated the pace to plan and develop electric vehicle technology. The electric vehicles (EVs) offer a zero-emission, new automobile industry establishment, and economic development, efficient and smart transportation system. 
 
-This project has a hand gesture controlled steering system to control the vehicle easily. It is designed to be suitable for any road conditions and to reduce the effort of a rider to drive skateboard easily. Currently, the high torque direct current motors are the choice of automobile industries and researchers because of its high power density, compact size, reliability, and noise-free and minimum maintenance requirements. The fabrication of the vehicle includes the assembly of skateboard and electric hub motor drive and designing the gesture controller.
+This project has a hand gesture controlled steering system to control the vehicle easily. It is designed to be suitable for any road conditions and to reduce the effort of a rider to drive skateboard easily. Currently, the high torque direct current motors are the choice of automobile industries and researchers because of its high power density, compact size, reliability, and noise-free and minimum maintenance requirements. The fabrication of the vehicle includes the assembly of skateboard🛹 and electric hub motor drive and designing the gesture controller.
 
 ### _Data Mining of Weather and Result Storage in a Web Server using NodeMCU_
 
