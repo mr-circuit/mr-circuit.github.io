@@ -41,25 +41,25 @@ This project is designed to build an obstacle🧱 avoidance robotic🤖 vehicle�
 
 Ever-increasing greenhouse gases🌋 in the atmosphere🌎 are one of the most dominant factors for long‐term changes in the tropospheric🌎 temperature🌡️ variations📊. To study📖 this fact in the wake of changing global🌎 climatic❄️ scenario, linear 📈 in surface temperature🌡️ and the tropospheric🌎 were examined for the period Jan – Dec in 2017 across Six cities🏙️ in India🇮🇳 (Hyderabad, Chennai, Delhi, Bangalore, Mumbai, Kolkata). The mean monthly temperature🌡️ data📄 for well‐spread 6 cities🏙️ across India🇮🇳 were used to examine the significance between temperatures🌡️ all around the months and between cities🏙️ using Two Way Anova Method with the help of R - Language🇷.
 
-### _Electronic Skateboard🛹 with Hand Gesture Speed Control_
+### _Electronic Skateboard🛹 with Hand🖐🏽 Gesture🙆‍♂️ Speed💨 Control🕹️_
 
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
-Environmental protection and energy conservations are the main concern of the 21st century, which has now accelerated the pace to plan and develop electric vehicle technology. The electric vehicles (EVs) offer a zero-emission, new automobile industry establishment, and economic development, efficient and smart transportation system. 
+Environmental🌳 protection and energy⚡ conservations are the main concern of the 21st century💯, which has now accelerated the pace to plan and develop electric vehicle⚡🚗 technology. The electric vehicles⚡🚗 (EVs) offer a zero-emission, new automobile🚗 industry🏭 establishment, and economic💵 development, efficient and smart transportation🚗🚌🛺 system. 
 
-This project has a hand gesture controlled steering system to control the vehicle easily. It is designed to be suitable for any road conditions and to reduce the effort of a rider to drive skateboard easily. Currently, the high torque direct current motors are the choice of automobile industries and researchers because of its high power density, compact size, reliability, and noise-free and minimum maintenance requirements. The fabrication of the vehicle includes the assembly of skateboard🛹 and electric hub motor drive and designing the gesture controller.
+This project has a hand🖐🏽 gesture🙆‍♂️ controlled🕹️ steering🚘 system to control🕹️ the vehicle🚗 easily. It is designed to be suitable for any road🛣️ conditions and to reduce the effort of a rider🚴‍♂️ to drive skateboard🛹 easily. Currently, the high torque direct current⚡ motors⚙️ are the choice of automobile🚗 industries🏭 and researchers because of its high power⚡ density, compact size, reliability, and noise-free🔉 and minimum maintenance requirements. The fabrication of the vehicle🚗 includes the assembly of skateboard🛹 and electric⚡ hub motor⚙️ drive and designing the gesture🙆‍♂️ controller🕹️.
 
-### _Data Mining of Weather and Result Storage in a Web Server using NodeMCU_
+### _Data Mining📄⛏️ of Weather❄️ and Result📄 Storage💾 in a Web Server🌐 using NodeMCU_
 
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Gundu Sushrutha👩🏻‍🎓, Varline Betty Cruze👩🏻‍🎓
 
-The ideology behind this project is to identify the weather conditions at any point on the earth, which can be identified by its place-name or by its Postcode/ Zipcode/ Pin code and make the information logged in a web server. The technologies which we are implementing in this project are Data Mining and Internet of Things (loT), the earlier is the concept of digging the data from the vast source of internet through simple concepts and the loT is the best solution to connect the electronic things to the internet so that they can be utilized anywhere in the world. 
+The ideology💡 behind this project is to identify🔍 the weather❄️ conditions at any point on the earth🌎, which can be identified🔍 by its place-name or by its Postcode/ Zipcode/ Pin code🏙️ and make the information📄 logged in a web server🌐. The technologies which we are implementing in this project are Data Mining📄⛏️ and Internet🌐 of Things (IoT), the earlier is the concept of digging⛏️ the data📄 from the vast source of internet🌐 through simple concepts and the IoT🌐 is the best solution to connect🤝 the electronic things to the internet🌐 so that they can be utilized anywhere in the world🌎. 
 
-Our system first collects the weather details of the place entered by the user through openweathermap.org (openweathermap.org is a provider for weather details) and those details were stored in a webserver/ webpage created. The weather details shown will be of Temperature in the area, data mining the server free API type of weather is it rainy, sunny, or stormy, etc. The data we got will be kept on updating in our web server and can be accessed from the internet anytime. We are using NodeMCU for both data mining and web server creation in this project.
+Our system first collects the weather❄️ details📄 of the place🏙️ entered by the user through openweathermap.org (openweathermap.org is a provider for weather❄️ details) and those details were stored in a webserver🌐/ webpage created. The weather❄️ details📄 shown will be of Temperature🌡️ in the area🏙️, data mining📄⛏️ the server🌐 free API type of weather❄️ is it rainy🌧️, sunny☀️, or stormy🌩️, etc. The data📄 we got will be kept on updating in our web server🌐 and can be accessed from the internet🌐 anytime. We are using NodeMCU for both data mining📄⛏️ and web server🌐 creation in this project.
 
-### _Identification of Water Quality inside a Bottle Instantaneously_
+### _Identification🔍 of Water🌊 Quality inside a Bottle Instantaneously_
 
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Prof. Elizabeth Rufus👩🏻‍🏫
