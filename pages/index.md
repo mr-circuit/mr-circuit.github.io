@@ -19,8 +19,6 @@ permalink: /
 >
 > Karlsruhe, BW, Germany 🇩🇪
 
-# _🤠Dum Spiro Spero🤠_
-
 ##  Who I Am?
 * A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
 * An Entrepreneur at ImmortalElectronics LLP 👨‍💼
