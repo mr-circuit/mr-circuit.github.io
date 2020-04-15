@@ -12,13 +12,14 @@ permalink: /
 ---
 
 # **😎Jayasurya Obbu😎**
-# _🤠Dum Spiro Spero🤠_
 
 > M.Sc, Sensor Systems Technology 👨🏻‍🎓👨🏻‍🎓
 >
 > Karlsruhe University of Applied Sciences 🏫
 >
 > Karlsruhe, BW, Germany 🇩🇪
+
+# _🤠Dum Spiro Spero🤠_
 
 ##  Who I Am?
 * A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
