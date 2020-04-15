@@ -59,16 +59,16 @@ The ideology💡 behind this project is to identify🔍 the weather❄️ condit
 
 Our system first collects the weather❄️ details📄 of the place🏙️ entered by the user through openweathermap.org (openweathermap.org is a provider for weather❄️ details) and those details were stored in a webserver🌐/ webpage created. The weather❄️ details📄 shown will be of Temperature🌡️ in the area🏙️, data mining📄⛏️ the server🌐 free API type of weather❄️ is it rainy🌧️, sunny☀️, or stormy🌩️, etc. The data📄 we got will be kept on updating in our web server🌐 and can be accessed from the internet🌐 anytime. We are using NodeMCU for both data mining📄⛏️ and web server🌐 creation in this project.
 
-### _Identification🔍 of Water🌊 Quality inside a Bottle Instantaneously_
+### _Identification🔍 of Water🌊 Quality inside a Bottle🍼 Instantaneously_
 
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Prof. Elizabeth Rufus👩🏻‍🏫
 
-In developing countries like India, unsafe drinking water is one of the main problems, many people in rural areas were getting affected by some serious diseases due to this unhygienic usage of water. To control the problems arising from this issue we are planning to develop a water bottle that will detect the impurities in the water-filled in it and to warn the people who were drinking that water.
+In developing countries like India🇮🇳, unsafe drinking water🚱 is one of the main problems, many people🧑‍🤝‍🧑🧑‍🤝‍🧑 in rural areas🏝️ were getting affected by some serious diseases😷 due to this unhygienic usage of water🚱. To control the problems arising from this issue we are planning📜 to develop a water bottle🍼 that will detect the impurities🦠 in the water-filled🌊 in it and to warn the people who were drinking that water🌊.
 
-A sample of water filled in the bottle is collected at the bottom of the bottle and some water quality tests were processed over that sample to identify whether it is good for drinking or not.
+A sample🧫 of water🌊 filled in the bottle🍼 is collected at the bottom of the bottle🍼 and some water quality🌊 tests🔬 were processed over that sample🧫 to identify🔍 whether it is good🚰 for drinking or not🚱.
 
-The water collected as the sample will be identified for the TDS (total dissolved salts), pH, Turbidity values of the sample water, if they were crossing the warning limits, then a danger indication is given regarding the purity of water.
+The water🌊 collected as the sample🧫 will be identified🔍 for the TDS (total dissolved salts🧂), pH, Turbidity values📄 of the sample🧫 water🌊, if they were crossing the warning⚠️ limits, then a danger indication☠️ is given regarding the purity of water🌊.
 
 ### _A Smart Ignition system to check Alcoholic Drivers and Seatbelt Overlookers_
 
