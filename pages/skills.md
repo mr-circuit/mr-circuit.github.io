@@ -15,7 +15,7 @@ permalink: /skills
 
 ## Technical Skills🔧🤹🏼
 
-### Programming & Scripting Languages👨‍💻
+### Programming, Markup & Scripting Languages👨‍💻
 
 + C
 + C++
@@ -27,6 +27,7 @@ permalink: /skills
 + Assembly Language
 + HTML, CSS, JS
 + Perl Scripting
++ Markdown
 + Ruby
 + Scala (Learning)
 + Java (Learning)
