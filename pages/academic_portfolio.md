@@ -34,12 +34,12 @@ IoT plays an important role in the healthcare⚕️ industry. Pulse💗 rate mon
 
 This project is designed to build an obstacle🧱 avoidance robotic🤖 vehicle🚗 using ultrasonic🔊 sensor for its movement. A micro-controller (ATMega 328 P) is used to achieve the desired operation. A robot🤖 is a machine that can perform a task automatically or with guidance. Robotics🤖 has a control system, which is a combination of computational intelligence👨‍💻, and Mechanical Build (motors)⚙️. Computational intelligence👨‍💻 involves the programmed instructions📄. The project proposes a robotic🤖 vehicle🚗 that has a control system built in it such that it directs itself whenever an obstacle🧱 comes in its path🛣️. This robotic🤖 vehicle🚗 is built, using a micro-controller of the ATMega family. An ultrasonic🔊 sensor is used to detect any obstacle🧱 ahead of it and sends➡️ a command to the microcontroller. Depending on the input signal received, the micro-controller redirects the robot🤖 to move in the left🤛 direction by actuating the motors⚙️, which are interfaced to it through a motor⚙️ driver.
 
-### _Recent trends in temperature over Six Cities in India during 2017_
+### _Recent trends📈 in temperature🌡️ over Six Cities🏙️ in India🇮🇳 during 2017_
 
 * Masters' Curriculum Project👨🏻‍🎓👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, Lingeshwaran R D👨🏻‍🎓, Immanuel Adam👨🏻‍🎓, Joshua Jacob Rajan👨🏻‍🎓
 
-Ever-increasing greenhouse gases in the atmosphere are one of the most dominant factors for long‐term changes in the tropospheric temperature variations. To study this fact in the wake of changing global climatic scenario, linear trends in surface temperature and the tropospheric were examined for the period Jan – Dec in 2017 across Six cities in India (Hyderabad, Chennai, Delhi, Bangalore, Mumbai, Kolkata). The mean monthly temperature data for well‐spread 6 cities across India were used to examine the significance between temperatures all around the months and between cities using Two Way Anova Method with the help of R - Language.
+Ever-increasing greenhouse gases🌋 in the atmosphere🌎 are one of the most dominant factors for long‐term changes in the tropospheric🌎 temperature🌡️ variations📊. To study📖 this fact in the wake of changing global climatic scenario, linear trends in surface temperature and the tropospheric were examined for the period Jan – Dec in 2017 across Six cities in India (Hyderabad, Chennai, Delhi, Bangalore, Mumbai, Kolkata). The mean monthly temperature data for well‐spread 6 cities across India were used to examine the significance between temperatures all around the months and between cities using Two Way Anova Method with the help of R - Language.
 
 ### _Electronic Skateboard with Hand Gesture Speed Control_
 
