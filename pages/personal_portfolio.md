@@ -5,13 +5,13 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: "Private Portfolio | Jayasurya Obbu"
+title: "Personal Portfolio | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /portfolio/private_portfolio
+permalink: /portfolio/personal_portfolio
 ---
 
-# **Private Projects💻 (No. of Projects: 10)**
+# **Personal Projects💻 (No. of Projects: 10)**
 
 ### _Biometric🖐🏽 Attendance_
 

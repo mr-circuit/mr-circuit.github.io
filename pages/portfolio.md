@@ -15,9 +15,9 @@ permalink: /portfolio
 
 ## Nothing makes me more joyful😁 than just working with some development technology👨‍💻. Electronics is my passion! These are some of the projects I've worked on that you may find interesting🤨.
 
-# **[Academic Projects🖥️ (No. of Projects: 8)](academic_portfolio.md))**
+# **[Academic Projects🖥️ (No. of Projects: 8)](academic_portfolio.md)**
 
-# **[Private Projects💻 (No. of Projects: 10)](private_portfolio.md)**
+# **[Personal Projects💻 (No. of Projects: 10)](personal_portfolio.md)**
 
 ## Tabs
 
