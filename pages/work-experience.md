@@ -50,7 +50,7 @@ I worked on...
 
 ## Tabs
 
-[Education🧮](education.md) [Work Experience💼](work-experience.md) Blog Books Reminisce Projects
+[Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md)
 
 ## Social Connectivity
 

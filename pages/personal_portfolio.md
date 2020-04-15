@@ -55,7 +55,7 @@ This is an windows form application🖥️ which is used to store🗃️ and dis
 
 ## Tabs
 
-[Education📖](education.md) [Work Experience💼](work-experience.md) Blog Books Reminisce Projects
+[Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md)
 
 ## Social Connectivity
 
