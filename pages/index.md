@@ -16,8 +16,6 @@ permalink: /
 # Karlsruhe University of Applied Sciences 🏫
 # Karlsruhe, BW, Germany 🇩🇪
 
-<strong>helllo<strong>
-
 ##  Who I Am?
 * A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
 * An Entrepreneur at ImmortalElectronics LLP 👨‍💼
