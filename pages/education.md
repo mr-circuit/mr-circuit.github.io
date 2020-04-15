@@ -23,13 +23,13 @@ Grade - 2.3 (1.0-4.0 / Max-Min)📜
 
 Topics I learned here...
 
-* Chemical and Bio Sensors
-* Physical Sensors
-* Opto Fluidic Sensors
-* Automotive Sensor Applications
-* System Integrations
-* Medical Sensors
-* Advanced Programming
+* Chemical🧪 and Bio🧬 Sensors
+* Physical Sensors⚙️
+* Opto Fluidic Sensors💡
+* Automotive Sensor Applications🚗
+* System Integrations🖥️💻
+* Medical Sensors⚕️
+* Advanced Programming👨‍💻
 
 ## Master of Technology(M.Tech.)👨🏻‍🎓👨🏻‍🎓, Sensor Systems Technology
 ### VIT University🏫, Vellore, India🇮🇳
@@ -40,18 +40,18 @@ Grade - 8.35 (10.0-1.0 / Max-Min)📜
 Topics I learned here...
 
 * Principles of Sensors
-* Data Acquisition and Hardware Interfaces
-* Control Systems
-* Software for Embedded Systems
-* Soft Computing
-* Flexible and Wearable Sensors
-* Wireless Sensor Networks and IoT
+* Data Acquisition📄 and Hardware Interfaces⚙️
+* Control Systems🎛️
+* Software for Embedded Systems📄👨‍💻
+* Soft Computing🧠👨‍💻
+* Flexible and Wearable Sensors👘
+* Wireless Sensor Networks and IoT🌐
 * Microcontrollers and Embedded Sensors
-* Advanced Statistical Methods
-* Management Studies
-* *	Product Design, Management Techniques, and Entrepreneurship
-* *	Essentials of Business Etiquettes
-* *	Preparing for Industry
+* Advanced Statistical Methods1️⃣
+* Management Studies📖
+* *	Product Design📦, Management Techniques⌚, and Entrepreneurship👨‍💼
+* *	Essentials of Business Etiquettes👨‍💼
+* *	Preparing for Industry🏭
 
 ## Bachelor of Technology(B.Tech.)👨🏻‍🎓, Electronics and Communication Engineering
 ### N B K R Institute of Science and Technology🏫, JNTUA, Vidyanagar, AP, India🇮🇳
@@ -61,30 +61,30 @@ Grade - 7.37 (10.0-1.0 / Max-Min)📜
 
 Topics I learned here...
 
-* Engineering Mathematics
-* Engineering - Physical Sciences
-* C - Programming & Data Structures
-* Pulse & Analog Circuits
-* Signals & Systems
-* Electronic Devices & Circuits
-* Electrical Sciences
-* Analog & Digital Communications
-* Waves
-* Analog & Digital IC Applications
+* Engineering Mathematics1️⃣
+* Engineering - Physical Sciences⚙️🧪
+* C - Programming & Data Structures👨‍💻
+* Pulse💗 & Analog⌚ Circuits
+* Signals & Systems📈
+* Electronic Devices & Circuits🎮
+* Electrical Sciences🔌
+* Analog⌚ & Digital1️⃣0️⃣ Communications
+* Waves〰️〰️
+* Analog⌚ & Digital1️⃣0️⃣ IC Applications
 * Embedded Sytems & VLSI Design
-* Computer Organizations & Networks
-* Digital Signal & Image Processing
-* Neural Networks & Fuzzy Logics
-* Telecommunications
-* *	Microwave Techniques
-* *	Radar Engineering
-* *	Optical Communications
-* * Satellite Communication
-* *	Cellular Mobile Communication
-* Management Studies
-* *	Economics & Accountancy
-* *	Environmental Studies
-* *	Management Sciences
+* Computer Organizations & Networks🖥️💻
+* Digital1️⃣0️⃣ Signal📈 & Image Processing🖼️
+* Neural Networks & Fuzzy Logics🧠👨‍💻
+* Telecommunications📱📻
+* *	Microwave Techniques📡
+* *	Radar Engineering🗺️
+* *	Optical Communications💡
+* * Satellite Communication🛰️
+* *	Cellular Mobile Communication📶
+* Management Studies📖
+* *	Economics & Accountancy📚
+* *	Environmental Studies🌳
+* *	Management Sciences⌚
 
 ## Intermediate / 12th Standard👨🏻‍🎓, Mathematics1️⃣ - Physics⚙️ - Chemistry🧪
 ### Narayana Junior College🏫, Gudur, India🇮🇳
