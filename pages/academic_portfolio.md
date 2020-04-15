@@ -70,20 +70,20 @@ A sample🧫 of water🌊 filled in the bottle🍼 is collected at the bottom of
 
 The water🌊 collected as the sample🧫 will be identified🔍 for the TDS (total dissolved salts🧂), pH, Turbidity values📄 of the sample🧫 water🌊, if they were crossing the warning⚠️ limits, then a danger indication☠️ is given regarding the purity of water🌊.
 
-### _A Smart Ignition system to check Alcoholic Drivers and Seatbelt Overlookers_
+### _A Smart Ignition🔋 system to check Alcoholic🍺 Drivers🚘 and Seatbelt💺 Overlookers_
 
 * Bachelors' Degree Thesis Project👨🏻‍🎓
 * Credits: Jayasurya Obbu👨🏻‍🎓, P Sandeep👨🏻‍🎓, Y Tejaswini👩🏻‍🎓, P. Santhosh Kumar Reddy👨🏻‍🎓
 
-Accidents are very common anywhere and at any time. Road safety is emerging as a major social concern around the world, especially in India. Alcoholic Driver creating accidents are one of the most significant public problems. There can be various reasons for accidents but the role of alcohol in traffic safety has produced more controversies than any other topic. The major cause of accidents is due to a bad driver, Condition of the road or Condition of the vehicle.
+Accidents are very common anywhere🌎 and at any time⌚. Road🛣️ safety⚠️ is emerging as a major social concern around the world🌎, especially in India🇮🇳. Alcoholic🍺 Driver🚘 creating accidents are one of the most significant public🧑‍🤝‍🧑🧑‍🤝‍🧑 problems. There can be various reasons for accidents but the role of alcohol🍺 in traffic🚦 safety⚠️ has produced more controversies than any other topic. The major cause of accidents is due to a bad👎 driver🚘, Condition of the road🛣️ or Condition of the vehicle🚗.
 
-A person who is driving a four-wheeler must wear a seat belt but most of us will ignore this rule. Ignorance of the seatbelt may cause severe loss. In this project, we are developing an auto-lock system to prevent accidents due to two causes,
+A person🧍 who is driving🚘 a four-wheeler🚗 must wear a seatbelt💺 but most of us will ignore this rule📑. Ignorance of the seatbelt💺 may cause severe loss. In this project, we are developing an auto-lock🔐 system to prevent accidents due to these two causes🍺🚘💺,
 
-1. When a drunken person is about to start the engine, It won't allow him to continue driving.
+1. When a drunken🍺 person🧍 is about to start🏁 the engine🔋, It won't allow him to continue driving🚘.
 
-2. If the driver is not wearing a seatbelt, the system will prevent the Ignition to start. 
+2. If the driver🚘 is not wearing a seatbelt💺, the system will prevent the Ignition🔋 to start🏁. 
 
-The input for this is from sensors. The controller works based on sensor inputs if there is any trace of alcohol or ignorance of seat belt the engine will be automatically locked.
+The input🔢 for this is from sensors. The controller works based on sensor inputs🔢 if there is any trace of alcohol🍺 or ignorance of seatbelt💺 the engine🔋 will be automatically locked🔒.
 
 ## Tabs
 
