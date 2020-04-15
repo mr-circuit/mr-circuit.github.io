@@ -21,14 +21,6 @@ permalink: /additional_info
 # **[Volunteer Works](academic_portfolio.md)**
 ***
 
-```
-# **[Awards](academic_portfolio.md)**
-# **[Licences & Certifications](academic_portfolio.md)**
-# **[Publications](academic_portfolio.md)**
-# **[Workshops & Seminars](academic_portfolio.md)**
-# **[Volunteer Works](academic_portfolio.md)**
-```
-
 ## Tabs
 
 [Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md)
