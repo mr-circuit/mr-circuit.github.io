@@ -15,9 +15,10 @@ permalink: /
 # _🤠Dum Spiro Spero🤠_
 
 > M.Sc, Sensor Systems Technology 👨🏻‍🎓👨🏻‍🎓
->Karlsruhe University of Applied Sciences 🏫
-
->Karlsruhe, BW, Germany 🇩🇪
+>
+> Karlsruhe University of Applied Sciences 🏫
+>
+> Karlsruhe, BW, Germany 🇩🇪
 
 ##  Who I Am?
 * A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
