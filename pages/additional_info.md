@@ -14,7 +14,7 @@ permalink: /additional_info
 # **Know more about me!!!**
 
 ***
-# **[Awards](academic_portfolio.md)**
+# **[Awards](awards.md)**
 # **[Licences & Certifications](academic_portfolio.md)**
 # **[Publications](academic_portfolio.md)**
 # **[Workshops & Seminars](academic_portfolio.md)**
