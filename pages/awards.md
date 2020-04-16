@@ -13,6 +13,7 @@ permalink: /additional_info/awards
 
 # **Awards**
 
+***
 * Nominated for **India 500 CEO Awards 2019** of India5000 Awards
     * [Click here for Web Archive of the Nomination](https://www.india5000.com/nomination/jayasurya-obbu)
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/india5000_nomination_certificate.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/india5000_nomination_certificate_thumbnail.jpg"/></a></center>
@@ -26,6 +27,7 @@ permalink: /additional_info/awards
 
 * **First Prize** for Poster presented on **Higher Altitude Aeronautical Platform Stations** in 2015 
 
+***
 ## Tabs
 
 [Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md)
