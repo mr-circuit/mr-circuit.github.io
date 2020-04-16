@@ -16,7 +16,7 @@ permalink: /additional_info/awards
 * Nominated for **India 500 CEO Awards 2019** of India5000 Awards
 * News Article in **Eenadu Newspaper** dated 06th October 2016
 > [Web Archive of News Article](https://web.archive.org/web/20161006082207/http:/www.eenadu.net/district/inner.aspx?dsname=Nellore&info=nlr-sty5)
-> ![News Article]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpg)
+> ![News Article]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg)
 * **Thrid Prize** for Paper presented on **Design of Embedded Device for Public Transportation Management System** in 2015
 * **First Prize** for Poster presented on **Higher Altitude Aeronautical Platform Stations** in 2015 
 
