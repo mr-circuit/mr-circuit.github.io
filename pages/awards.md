@@ -19,7 +19,7 @@ permalink: /additional_info/awards
 
 > ![News Article]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg)
 
-> <img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg" width="200" height="200" />
+> <img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg" width="127" height="270" />
 
 * **Thrid Prize** for Paper presented on **Design of Embedded Device for Public Transportation Management System** in 2015
 * **First Prize** for Poster presented on **Higher Altitude Aeronautical Platform Stations** in 2015 
