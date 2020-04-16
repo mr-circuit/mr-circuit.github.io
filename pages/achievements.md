@@ -24,11 +24,11 @@ permalink: /additional_info/achievements
 
 * Acted as host for a **Workshop on Latest Trends of Electronics** for Bachelor Students in 2017
 	* [Click here for Workshop photos](https://drive.google.com/open?id=0B2ZNynV4sgFPRTJBOURrN2xwMWM)
-<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/latest_trends_of_electronics.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/latest_trends_of_electronics_thumbnail.jpeg"/></a></center>
+<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/latest_trends_of_electronics.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/latest_trends_of_electronics_thumbnail.jpg"/></a></center>
 
 * Acted as host for a **Seminar on DIY Electronics** for Bachelor Students in 2016
-	* [Click here for Workshop photos](https://drive.google.com/open?id=0B2ZNynV4sgFPLXNjMHU1SldRbms)
-<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/diy_electronics.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/diy_electronics_thumbnail.jpeg"/></a></center>
+	* [Click here for Seminar photos](https://drive.google.com/open?id=0B2ZNynV4sgFPLXNjMHU1SldRbms)
+<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/diy_electronics.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/diy_electronics_thumbnail.jpg"/></a></center>
 
 * **Thrid Prize** for Paper presented on **Design of Embedded Device for Public Transportation Management System** in 2015
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/technoquest.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/technoquest_thumbnail.jpg"/></a></center>
