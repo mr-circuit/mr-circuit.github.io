@@ -20,7 +20,7 @@ permalink: /additional_info/awards
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article_thumbnail.jpeg"/></a></center>
 
 * **Thrid Prize** for Paper presented on **Design of Embedded Device for Public Transportation Management System** in 2015
-<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/technoquest.jpeg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/technoquest_thumbnail.jpeg" width =504 height =284/></a></center>
+<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/technoquest.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/technoquest_thumbnail.jpeg" width =504 height =284/></a></center>
 
 * **First Prize** for Poster presented on **Higher Altitude Aeronautical Platform Stations** in 2015 
 
