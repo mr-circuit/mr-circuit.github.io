@@ -17,7 +17,10 @@ permalink: /additional_info/awards
 * News Article in **Eenadu Newspaper** dated 06th October 2016
 > [Web Archive of News Article](https://web.archive.org/web/20161006082207/http:/www.eenadu.net/district/inner.aspx?dsname=Nellore&info=nlr-sty5)
 
-> ![News Article]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg =200x)
+> ![News Article]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg)
+
+> <img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg" width="200" height="200" />
+
 * **Thrid Prize** for Paper presented on **Design of Embedded Device for Public Transportation Management System** in 2015
 * **First Prize** for Poster presented on **Higher Altitude Aeronautical Platform Stations** in 2015 
 
