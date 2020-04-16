@@ -15,7 +15,7 @@ permalink: /additional_info/awards
 
 * Nominated for **India 500 CEO Awards 2019** of India5000 Awards
     * [Click here for Web Archive of the Nomination](https://www.india5000.com/nomination/jayasurya-obbu)
-<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/india5000_nomination_certificate_thumbnail.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/india5000_nomination_certificate_thumbnail.jpg"/></a></center>
+<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/india5000_nomination_certificate.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/india5000_nomination_certificate_thumbnail.jpg"/></a></center>
 
 * News Article in **Eenadu Newspaper** dated 06th October 2016
     * [Click here for Web Archive of the News Article](https://web.archive.org/web/20161006082207/http:/www.eenadu.net/district/inner.aspx?dsname=Nellore&info=nlr-sty5)
