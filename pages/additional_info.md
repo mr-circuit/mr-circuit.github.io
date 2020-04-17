@@ -11,14 +11,14 @@ encrypted_text: true
 permalink: /additional_info
 ---
 
-# **Know more about me!!!**
+# **Know🤝🏼 more about me😉!!!**
 
 ***
-# **[Achievements](achievements.md)**
-# **[Licences & Certifications](academic_portfolio.md)**
-# **[Publications](academic_portfolio.md)**
-# **[Workshops & Seminars](academic_portfolio.md)**
-# **[Volunteer Works](academic_portfolio.md)**
+# **[Achievements🏆](achievements.md)**
+# **[Licences & Certifications📜](academic_portfolio.md)**
+# **[Publications📰](academic_portfolio.md)**
+# **[Workshops & Seminars🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼](academic_portfolio.md)**
+# **[Volunteer Works🦸‍♂️](academic_portfolio.md)**
 ***
 
 ## Tabs
