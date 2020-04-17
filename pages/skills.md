@@ -74,7 +74,7 @@ permalink: /skills
 
 ### Communicational Skills💬
 
-* Languages🈚 - English🏴󠁧󠁢󠁥󠁮󠁧󠁿, Telugu, Tamil, German🇩🇪
+* Languages🈚 - English🔠, Telugu, Tamil, German🇩🇪
 * Public Speaking🗣️
 * Leadership
 * Mentoring
