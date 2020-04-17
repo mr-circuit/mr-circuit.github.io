@@ -8,7 +8,7 @@ footer: true
 title: "Work Experience | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /work-experience
+permalink: /work-experience/
 ---
 
 # _"You can't do a good job👨‍💼, unless you love❤️ it"_ 

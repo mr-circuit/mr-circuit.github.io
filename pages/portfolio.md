@@ -8,7 +8,7 @@ footer: true
 title: "Portfolio | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /portfolio
+permalink: /portfolio/
 ---
 
 # _**"Knowledge😇 is of no value unless you put it into Practice🏃‍♂️"**_ 

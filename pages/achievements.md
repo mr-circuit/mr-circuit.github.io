@@ -8,7 +8,7 @@ footer: true
 title: "Achievements | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /additional_info/achievements
+permalink: /additional_info/achievements/
 ---
 
 # **Achievements🏆**

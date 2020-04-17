@@ -8,7 +8,7 @@ footer: true
 title: "Skills | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /skills
+permalink: /skills/
 ---
 
 # _"Knowledge is not Skill🤹🏼, Knowledge + 10000 times is Skill🤹🏼_"

@@ -8,7 +8,7 @@ footer: true
 title: "Personal Portfolio | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /portfolio/personal_portfolio
+permalink: /portfolio/personal_portfolio/
 ---
 
 # **Personal Projects💻 (No. of Projects: 10)**

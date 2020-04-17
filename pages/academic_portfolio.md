@@ -8,7 +8,7 @@ footer: true
 title: "Academic Portfolio | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /portfolio/academic_portfolio
+permalink: /portfolio/academic_portfolio/
 ---
 
 # **Academic Projects🖥️ (No. of Projects: 8)**
