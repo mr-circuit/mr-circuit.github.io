@@ -14,7 +14,7 @@ permalink: /additional_info/publications/
 # **Publications📰**
 
 ***
-* Jayasurya Obbu👨🏻‍🎓, Karthik Katikani👨🏻‍🎓. **Home🏠 Automation using Vocal Commands🗣️**, **International🌎 📰 of Research in Engineering⚙️ and Technology🖥️**, p133-137📄, Volume: 05📚, Issue: 04📕, eISSN: 2319-1163, pISSN: 2321-7308.
+* Jayasurya Obbu👨🏻‍🎓, Karthik Katikani👨🏻‍🎓. **Home🏠 Automation using Vocal Commands🗣️**, **International🌎 Journal📰 of Research in Engineering⚙️ and Technology🖥️**, p133-137📄, Volume: 05📚, Issue: 04📕, eISSN: 2319-1163, pISSN: 2321-7308.
     * [Click here🖱️ for Publication eReference📃](https://ijret.org/volumes/2016v05/i04/IJRET20160504025.pdf)
     * [Click here🖱️  for Publication Certificate📜]({{site.url}}{{site.baseurl}}{{site.assets_path}}/pdf/ijret_certificate.pdf) 
 
