@@ -8,7 +8,7 @@ footer: true
 title: "Additional Info | Jayasurya Obbu"
 author: ""
 encrypted_text: true
-permalink: /additional_info
+permalink: /additional_info/
 ---
 
 # **Know🤝🏼 more about me😉!!!**
