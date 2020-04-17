@@ -16,7 +16,7 @@ permalink: /additional_info/
 ***
 # **[Achievements🏆](achievements.md)**
 # **[Certifications📜](certifications.md)**
-# **[Publications📰](academic_portfolio.md)**
+# **[Publications📰](publications.md)**
 # **[Workshops & Seminars🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼](academic_portfolio.md)**
 # **[Volunteer Works🦸‍♂️](academic_portfolio.md)**
 
