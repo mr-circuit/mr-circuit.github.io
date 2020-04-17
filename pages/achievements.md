@@ -22,11 +22,11 @@ permalink: /additional_info/achievements
     * [Click here🖱️ for Web Archive🌐📂 of the News Article📰](https://web.archive.org/web/20161006082207/http:/www.eenadu.net/district/inner.aspx?dsname=Nellore&info=nlr-sty5)
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article.jpeg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/eenadu_news_article_thumbnail.jpeg"/></a></center>
 
-* Acted as host🤵🎤 for a **Workshop🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼 on Latest Trends of Electronics📱📻📟📷** for Bachelor Students👨🏻‍🎓👩🏻‍🎓👨🏻‍🎓👩🏻‍🎓 in 2017📅
+* Host🤵🎤 for the **Workshop🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼 on Latest Trends of Electronics📱📻📟📷** for Bachelor Students👨🏻‍🎓👩🏻‍🎓👨🏻‍🎓👩🏻‍🎓 in 2017📅
 	* [Click here🖱️ for Workshop🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼 photos📷](https://drive.google.com/open?id=0B2ZNynV4sgFPRTJBOURrN2xwMWM)
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/latest_trends_of_electronics.JPG"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/latest_trends_of_electronics_thumbnail.jpg"/></a></center>
 
-* Acted as host🤵🎤 for a **Seminar🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼 on DIY Electronics📱📻📟📷** for Bachelor Students👨🏻‍🎓👩🏻‍🎓👨🏻‍🎓👩🏻‍🎓 in 2016📅
+* Host🤵🎤 for the **Seminar🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼 on DIY Electronics📱📻📟📷** for Bachelor Students👨🏻‍🎓👩🏻‍🎓👨🏻‍🎓👩🏻‍🎓 in 2016📅
 	* [Click here🖱️ for Seminar🧑🏼‍🤝‍🧑🏼🎤🧑🏼‍🤝‍🧑🏼 photos📷](https://drive.google.com/open?id=0B2ZNynV4sgFPLXNjMHU1SldRbms)
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/diy_electronics.JPG"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/diy_electronics_thumbnail.jpg"/></a></center>
 
