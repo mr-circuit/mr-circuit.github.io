@@ -14,7 +14,7 @@ email: "hello@jayasurya.me"
 github: "mr-circuit/"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "@Jayasurya.Obbu"
+statement: "@Jayasurya.Obbu,  forked from pRoJEct-NeGYa - DeerRIDER"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
