@@ -114,14 +114,14 @@ permalink: /
                   var url = info.url;
                   var listening = info["@attr"];
                   var headphones = '<span>Listening to 🎧</span> ';
-                  nowplaying += headphones + '<em><strong>' + track + '</strong> by <strong>' + artist + '</strong></em>';
+                  nowplaying += headphones + '<em><strong>' + track + '</strong> by <strong>' + artist + '</strong> from <strong>' + album + '</strong></em>';
             
                   if (listening)
                     nowplaying += ' <small>right now</small></li>';
                   else
                     nowplaying += ' <small>' + timeAgo(info.date['uts']) + '</small></li>';
             
-                  nowplaying += '<br><br>' + headphones + '<em><strong>' + recent.name + '</strong> by <strong>' + recent.artist['#text'] + '</strong></em>';
+                  nowplaying += '<br><br>' + headphones + '<em><strong>' + recent.name + '</strong> by <strong>' + recent.artist['#text'] + '</strong> from <strong>' + recent.album['#text'] + '</strong></em>';
                   nowplaying += ' <small>' + timeAgo(recent.date['uts']) + '</small></li>';
             
                   document.getElementById('tracklist').innerHTML = nowplaying;
