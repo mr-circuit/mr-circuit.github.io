@@ -14,17 +14,17 @@ permalink: /additional_info/volunteer_works/
 # **Volunteer Works🦸‍♂️**
 
 ***
-* Pledged to donate my organs and tissues at **National Organ and Tissue Transplant Organization**, Govt. of India
+* Pledged✋ to donate my organs and tissues❤️ at **National Organ and Tissue❤️ Transplant Organization🏢**, Govt. of India🇮🇳
     * [Click here for Donor Pledge]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/donorpledge.JPG)
 
-* A Regular Blood Donor
+* A Regular Blood🩸 Donor
 
-* Contribute every month to **UNO's World Food Programme** to share a meal with people who are in need  
+* Contribute every month🗓️ to **UNO's World🌎 Food🍲 Programme** to share a meal🍲 with people🧑‍🤝‍🧑 who are in need  
 
-* Worked as a volunteer for **Helping Hands of NBKRIST**, a non commercial organization to help poor students and people
+* Worked as a volunteer🧍 for **Helping Hands👐 of NBKRIST🏫**, a non commercial organization🏢 to help poor students🧑‍🎓 and people🧑‍🤝‍🧑
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/helpinghands.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/helpinghands_thumbnail.jpg"/></a></center>
 
-* Worked as **Joint Secretary** for **IETE Student chapter** in NBKRIST in the academic year 2015-16
+* Worked as **Joint Secretary👨‍💼** for **IETE Student🧑‍🎓 chapter** in NBKRIST🏫, Vidyanagar, India🇮🇳 in the academic year 2015-16📅
 
 ***
 ## Tabs
