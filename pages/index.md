@@ -114,7 +114,7 @@ permalink: /
                   var cover = info.image[3]["#text"];
                   var url = info.url;
                   var listening = info["@attr"];
-                  var headphones = '<li><img src="/assets/img/headphones.emoji.svg" class="emoji-big"> <span>Listening to</span> ';
+                  var headphones = '<span>Listening to 🎧</span> ';
                   nowplaying += headphones + '<em><strong>' + track + '</strong> by <strong>' + artist + '</strong></em>';
             
                   if (listening)
