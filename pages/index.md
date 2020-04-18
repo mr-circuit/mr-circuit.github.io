@@ -29,7 +29,6 @@ permalink: /
 * A Musicophile 🎧
 
 ## Without music, life would be a mistake. Here you can see what I'm listening
-
 <p id="tracklist" ></p>
 
 <script>
@@ -126,9 +125,9 @@ permalink: /
                   nowplaying += ' <small>' + timeAgo(recent.date['uts']) + '</small></li>';
             
                   document.getElementById('tracklist').innerHTML = nowplaying;
-                }
-              });
-            </script>
+        }
+    });
+  </script>
 
 ## Tabs
 
