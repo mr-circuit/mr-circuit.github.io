@@ -28,7 +28,7 @@ permalink: /
 * A Programmer rather than A Coder 👨‍💻
 * A Musicophile 🎧
 
-## Without music, life would be a mistake. Here you can see what I'm listening
+## Without music🎶, life would be a mistake🙃, see what I'm listening🎧
 <ul id="tracklist" ></ul>
 
 <script>
@@ -94,7 +94,7 @@ permalink: /
               while (unit = units[i++]) {
                 if (diff < unit.limit || !unit.limit) {
                   var diff = Math.floor(diff / unit.in_seconds);
-                  return diff + " " + unit.name + (diff > 1 ? "s" : "") + ' ago';
+                  return diff + " " + unit.name + (diff > 1 ? "s" : "") + ' ago⌛';
                 }
               };
             }
@@ -114,14 +114,14 @@ permalink: /
                   var url = info.url;
                   var listening = info["@attr"];
                   var headphones = '<span>Listening to 🎧</span> ';
-                  nowplaying += headphones + '<em><strong>' + track + '</strong> by <strong>' + artist + '</strong> from <strong>' + album + '</strong></em>';
+                  nowplaying += headphones + '<em><strong>' + track + '</strong>🎼 by <strong>' + artist + '</strong>🎤 from <strong>' + album + '💿</strong></em>';
             
                   if (listening)
-                    nowplaying += ' <small>right now</small></li>';
+                    nowplaying += ' <small>right now⌛</small></li>';
                   else
                     nowplaying += ' <small>' + timeAgo(info.date['uts']) + '</small></li>';
             
-                  nowplaying += '<br><br>' + headphones + '<em><strong>' + recent.name + '</strong> by <strong>' + recent.artist['#text'] + '</strong> from <strong>' + recent.album['#text'] + '</strong></em>';
+                  nowplaying += '<br><br>' + headphones + '<em><strong>' + recent.name + '</strong>🎼 by <strong>' + recent.artist['#text'] + '</strong>🎤 from <strong>' + recent.album['#text'] + '💿</strong></em>';
                   nowplaying += ' <small>' + timeAgo(recent.date['uts']) + '</small></li>';
             
                   document.getElementById('tracklist').innerHTML = nowplaying;
