@@ -22,6 +22,7 @@ permalink: /additional_info/volunteer_works/
 * Contribute every month to **UNO's World Food Programme** to share a meal with someone who is in need  
 
 * Worked as a volunteer for **Helping Hands of NBKRIST**, a non commercial organization to help poor students and people
+<center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/helpinghands.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/helpinghands_thumbnail.jpg"/></a></center>
 
 * Worked as **Joint Secretary** for **IETE Student chapter** in NBKRIST in the academic year 2015-16
 
