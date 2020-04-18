@@ -28,6 +28,7 @@ permalink: /
 * A Programmer rather than A Coder 👨‍💻
 * A Musicophile 🎧
 
+***
 ## Without music🎶, life would be a mistake🙃, see what I'm listening🎧
 <ul id="tracklist" ></ul>
 
@@ -129,6 +130,7 @@ permalink: /
     });
   </script>
 
+***
 ## Tabs
 
 [Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md) [More Info😉](additional_info.md)
