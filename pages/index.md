@@ -121,7 +121,7 @@ permalink: /
                   else
                     nowplaying += ' <small>' + timeAgo(info.date['uts']) + '</small></li>';
             
-                  nowplaying += '<br>' + headphones + '<em><strong>' + recent.name + '</strong> by <strong>' + recent.artist['#text'] + '</strong></em>';
+                  nowplaying += '<br><br>' + headphones + '<em><strong>' + recent.name + '</strong> by <strong>' + recent.artist['#text'] + '</strong></em>';
                   nowplaying += ' <small>' + timeAgo(recent.date['uts']) + '</small></li>';
             
                   document.getElementById('tracklist').innerHTML = nowplaying;
