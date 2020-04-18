@@ -21,8 +21,8 @@ permalink: /additional_info/publications/
 ***
 ## Tabs
 
-[Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md)
+[Education📖](education.md) [Work Experience💼](work-experience.md) [Skills🤹🏼](skills.md) [Portfolio🖥️](portfolio.md) [More Info😉](additional_info.md)
 
 ## Social Connectivity
 
-[Facebook](https://www.facebook.com/jayasurya.obbu/) [LinkedIn](https://www.linkedin.com/in/jayasurya-obbu/) [Instagram](https://www.instagram.com/mr__circuit/) [GitHub](https://github.com/mr-circuit) [E-Mail]( mailto:hello@jayasurya.me) 
+[Facebook](https://www.facebook.com/jayasurya.obbu/) [LinkedIn](https://www.linkedin.com/in/jayasurya-obbu/) [Instagram](https://www.instagram.com/mr__circuit/) [Twitter](https://twitter.com/JayasuryaObbu) [Xing](https://www.xing.com/profile/Jayasurya_Obbu/) [GitHub](https://github.com/mr-circuit) [E-Mail]( mailto:hello@jayasurya.me)
