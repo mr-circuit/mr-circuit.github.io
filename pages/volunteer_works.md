@@ -19,7 +19,7 @@ permalink: /additional_info/volunteer_works/
 
 * A Regular Blood Donor
 
-* Contribute every month to **UNO's World Food Programme** to share a meal with someone who is in need  
+* Contribute every month to **UNO's World Food Programme** to share a meal with people who are in need  
 
 * Worked as a volunteer for **Helping Hands of NBKRIST**, a non commercial organization to help poor students and people
 <center><a href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/helpinghands.jpg"><img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/helpinghands_thumbnail.jpg"/></a></center>
