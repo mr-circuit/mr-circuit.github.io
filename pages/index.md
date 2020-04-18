@@ -29,7 +29,7 @@ permalink: /
 * A Musicophile 🎧
 
 ## Without music, life would be a mistake. Here you can see what I'm listening
-<p id="tracklist" ></p>
+<ul id="tracklist" ></ul>
 
 <script>
             var url = 'https://ws.audioscrobbler.com/2.0?method=user.getRecentTracks&user=jayasuryaobbu&limit=6&api_key=33cdaddff9d11f6c16bc9c015757bec9&format=json';
