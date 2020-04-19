@@ -17,7 +17,7 @@ permalink: /additional_info/volunteer_works/
 * Pledged✋ to donate my organs and tissues❤️ at **National Organ and Tissue❤️ Transplant Organization🏢**, Govt. of India🇮🇳
     * [Click here for Donor Pledge]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/donorpledge.JPG)
 
-* A Regular Blood🩸 Donor
+* A Regular Blood🩸 Donor - B Positive
 
 * Contribute every month🗓️ to **UNO's World🌎 Food🍲 Programme** to share a meal🍲 with people🧑‍🤝‍🧑 who are in need  
 
