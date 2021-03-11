@@ -19,6 +19,9 @@ permalink: /
 >
 > Karlsruhe, BW, Germany 🇩🇪
 
+<div class="github-card" data-github="jayasuryaobbu" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 ##  Who I Am?
 * A Masters Student in Sensors 👨🏻‍🎓👨🏻‍🎓
 * An Entrepreneur at ImmortalElectronics LLP 👨‍💼
