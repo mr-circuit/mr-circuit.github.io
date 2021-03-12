@@ -1,1 +1,1 @@
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+src="//cdn.jsdelivr.net/github-cards/latest/widget.js"
